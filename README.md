@@ -1,6 +1,6 @@
-# LocalMart
+# ShopSphere
 
-LocalMart is a multi-vendor e-commerce marketplace that allows small businesses to create online stores and sell products to customers.
+ShopSphere is a multi-vendor e-commerce marketplace that allows small businesses to create online stores and sell products to customers.
 
 ## Tech Stack
 
